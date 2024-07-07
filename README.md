@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Admin Panel
 
-## Getting Started
+📊**Admin panel to review company and even personal plans**
 
-First, run the development server:
+![1](https://github.com/Melika-haqshenas-web/Admin-Panel/assets/126666369/fa5cbd28-a517-40b6-9312-e90ec12c81bf)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![2](https://github.com/Melika-haqshenas-web/Admin-Panel/assets/126666369/55b77dcb-8162-4962-b91b-744f1e2e10f2)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![3](https://github.com/Melika-haqshenas-web/Admin-Panel/assets/126666369/464a7ccb-73c7-4e9d-a225-9b19ef97c4ba)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![4](https://github.com/Melika-haqshenas-web/Admin-Panel/assets/126666369/35ee397c-0fb8-4381-913d-7bd2acd39c69)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![5](https://github.com/Melika-haqshenas-web/Admin-Panel/assets/126666369/0d6a40cb-6553-43d5-9c83-2785a386e342)
 
-## Learn More
+- [Demo Project](https://vxjvp6-3000.csb.app/)
 
-To learn more about Next.js, take a look at the following resources:
+👩‍💻- Developed by Melika-haqshenas-web
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📅- Created - 2024-02-18
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+⌨- Technologies Used - React , Next , Tailwind , React-calendar , React-Chart , React-icons , Html , Css , Responsive
 
-## Deploy on Vercel
+- Hooks Used : useState 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Role - Frontend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+🖱- How to reach me : with my [instagram](https://www.instagram.com/melika.haqshenas_web/) and [linkedin](https://www.linkedin.com/in/melika-haqshenas-web/)
